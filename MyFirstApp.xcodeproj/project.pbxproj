@@ -14,6 +14,8 @@
 		943A84AB2C25B60B0042865D /* MyFirstAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943A84AA2C25B60B0042865D /* MyFirstAppTests.swift */; };
 		943A84B52C25B60B0042865D /* MyFirstAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943A84B42C25B60B0042865D /* MyFirstAppUITests.swift */; };
 		943A84B72C25B60B0042865D /* MyFirstAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943A84B62C25B60B0042865D /* MyFirstAppUITestsLaunchTests.swift */; };
+		943A84C62C25B6DF0042865D /* Variable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943A84C52C25B6DF0042865D /* Variable.swift */; };
+		943A84C82C25BD710042865D /* Variable3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943A84C72C25BD710042865D /* Variable3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		943A84B02C25B60B0042865D /* MyFirstAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		943A84B42C25B60B0042865D /* MyFirstAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstAppUITests.swift; sourceTree = "<group>"; };
 		943A84B62C25B60B0042865D /* MyFirstAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		943A84C52C25B6DF0042865D /* Variable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Variable.swift; sourceTree = "<group>"; };
+		943A84C72C25BD710042865D /* Variable3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Variable3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				943A849B2C25B60A0042865D /* ContentView.swift */,
 				943A849D2C25B60B0042865D /* Assets.xcassets */,
 				943A849F2C25B60B0042865D /* Preview Content */,
+				943A84C52C25B6DF0042865D /* Variable.swift */,
+				943A84C72C25BD710042865D /* Variable3.swift */,
 			);
 			path = MyFirstApp;
 			sourceTree = "<group>";
@@ -258,7 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				943A849C2C25B60A0042865D /* ContentView.swift in Sources */,
+				943A84C62C25B6DF0042865D /* Variable.swift in Sources */,
 				943A849A2C25B60A0042865D /* MyFirstAppApp.swift in Sources */,
+				943A84C82C25BD710042865D /* Variable3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
